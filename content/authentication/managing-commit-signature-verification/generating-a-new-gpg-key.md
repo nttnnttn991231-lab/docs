@@ -1,3 +1,4 @@
+content/authentication/managing-commit-signature-verification/generating-a-new-gpg-key.md
 ---
 title: Generating a new GPG key
 intro: 'If you don''t have an existing GPG key, you can generate a new GPG key to use for signing commits and tags.'
